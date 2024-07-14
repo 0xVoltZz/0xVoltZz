@@ -2,6 +2,6 @@
 - 👀 I’m interested in network technology, cybersecurity, and AI development.
 - 🌱 I’m currently learning advanced cybersecurity techniques and enhancing my skills in Python and AI tools.
 - 💞️ I’m looking to collaborate on projects related to network security, AI chatbots, and web vulnerability detection.
-- 📫 How to reach me: 
+- 📫 How to reach me: Email = "skymi9011@gmail.com" 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I successfully built a fully functional warehouse network system from scratch, including domains, devices, a comprehensive inventory system, and surveillance cameras.
