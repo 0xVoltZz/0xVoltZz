@@ -7,4 +7,3 @@ Here’s the updated version attributed to a single person:
 - 📫 How to reach me: SOCHIL = "@voltZz"  
 - 😄 Pronouns: they/them  
 - ⚡ Fun fact: I successfully built a fully functional warehouse network system from scratch, including domains, devices, a comprehensive inventory system, and surveillance cameras.
-![image](https://github.com/user-attachments/assets/ffb6902c-f441-4067-bf2b-71b6c4f69380)
